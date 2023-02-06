@@ -70,3 +70,18 @@ Inter Quartile Range (IQR) : 6<br/>
 Upper limit for outlier : 25.5<br/>
 Lower limit for outlier : 8.5<br/>
 
+<h2>How to run this file on Linux<h2>
+<h3>Install Git on Linux</h3> 
+  
+<code>sudo apt-get update</code><br/>
+<code>sudo apt-get install git-all</code>
+  
+<h3>Install g++ compiler  on Linux</h3>  
+  
+<code>sudo apt-get install g++</code> 
+<h3>Clone the repository</h3>
+<code>git clone https://github.com/MaleeshaUdan/Easy-Stat.git</code>
+<h3>Run the program</h3>  
+<code>cd Easy-Stat</code><br/>
+<code>g++ -o example example.cpp</code><br/>  
+<code>./static</code>  
